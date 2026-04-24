@@ -72,8 +72,8 @@ AI Growth Scout — это агент для студентов, которые 
 ## Установка
 
 ```bash
-git clone <репозиторий>
-cd matmod
+git clone https://github.com/rabazatov1/AI_Growth_Scout.git
+cd AI_Growth_Scout
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -177,7 +177,6 @@ data/
 tests/
   test_ranking.py  
   test_normalization.py 
-DEMO_SCRIPT.md 
 REFLECTION.md 
 ```
 
